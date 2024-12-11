@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiya1859" alt="samiya1859" /></a> </p>
 
-- 🔭 I’m currently working on **Flowershop Backend**
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently doing internship in **W3 Engineers Ltd**
 
 - 👨‍💻 All of my projects are available at [https://superlative-selkie-17b7ca.netlify.app](https://superlative-selkie-17b7ca.netlify.app)
 
